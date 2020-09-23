@@ -1,4 +1,4 @@
-# Lab in Signal and Image Processing, 2018
+# Lab in Data Science, 2019
 
 This repository contains the material for the labs associated with the EPFL master course [COM-490 Lab in Data Science][epfl_link]. The course material revolves around the following topics:
 
